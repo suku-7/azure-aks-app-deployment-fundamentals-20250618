@@ -7,6 +7,10 @@ Kubernetes 기본 애플리케이션 배포 및 관리 (Labels, Annotations, Rol
 - Deployment의 롤아웃(Rollout) 및 롤백(Rollback) 기능을 통해 애플리케이션 버전을 안전하게 관리하며, ReplicaSet, Namespace, Service와 같은 핵심 개념을 함께 이해합니다.
 - 클라우드 환경에서 안정적인 서비스 운영을 위한 쿠버네티스 기본기를 다지는 데 중점을 둡니다.
 
+
+
+## 실습 단계별 상세 설명
+
 0. 환경 초기화
 ```
 # 환경 초기화 스크립트 실행 (init.sh 스크립트가 존재한다고 가정)
