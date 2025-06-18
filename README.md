@@ -1,5 +1,5 @@
 # Model
-## kubernetes-deployment-labels-lab-20250618
+## azure-aks-app-deployment-fundamentals-20250618
 https://labs.msaez.io/#/189596125/storming/modelforops2
 
 Kubernetes 기본 애플리케이션 배포 및 관리 (Labels, Annotations, Rollout)
