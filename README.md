@@ -2,12 +2,18 @@
 ## azure-aks-app-deployment-fundamentals-20250618
 https://labs.msaez.io/#/189596125/storming/modelforops2
 
-Kubernetes 기본 애플리케이션 배포 및 관리 (Labels, Annotations, Rollout)
+Kubernetes 기본 애플리케이션 배포 및 관리 실습 (Labels, Annotations, Rollout)
 - 이 실습은 쿠버네티스에서 애플리케이션을 배포하고 Labels, Annotations를 활용해 객체를 효율적으로 관리하는 방법을 다룹니다.
 - Deployment의 롤아웃(Rollout) 및 롤백(Rollback) 기능을 통해 애플리케이션 버전을 안전하게 관리하며, ReplicaSet, Namespace, Service와 같은 핵심 개념을 함께 이해합니다.
 - 클라우드 환경에서 안정적인 서비스 운영을 위한 쿠버네티스 기본기를 다지는 데 중점을 둡니다.
 
-
+![스크린샷 2025-06-18 140848](https://github.com/user-attachments/assets/ed46f922-3b98-424e-b063-0ab84e65a5ea)
+![스크린샷 2025-06-18 141606](https://github.com/user-attachments/assets/9fb147c0-89d1-4277-9092-ecd6965d86f9)
+![스크린샷 2025-06-18 143046](https://github.com/user-attachments/assets/a29a9035-7726-483b-a250-4192f7b28775)
+![스크린샷 2025-06-18 143205](https://github.com/user-attachments/assets/5d56c4ba-f76f-4e37-8b08-28906b6160f0)
+![스크린샷 2025-06-18 144600](https://github.com/user-attachments/assets/5f7c98c4-627b-498d-aeb6-7428699dbfc5)
+![스크린샷 2025-06-18 145558](https://github.com/user-attachments/assets/10040fda-6201-4a5b-b36a-af68ed0ce5f4)
+![스크린샷 2025-06-18 145637](https://github.com/user-attachments/assets/b075554e-690e-4997-8c1d-a2944b3548a4)
 
 ## 실습 단계별 상세 설명
 
